@@ -1,0 +1,7 @@
+/share/*
+/licensing/*
+/.ipynb_checkpoints/*
+/bin/*
+/lib/*
+/ssl/
+/.idea/*
